@@ -1,0 +1,22 @@
+{
+  "name": "strong-password",
+  "version": "1.0.0",
+  "description": "npm module for checking if password is strong enough & tell user why it's not strong based on a schema.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazen-r/strong-password.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Mazen Ramadan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazen-r/strong-password/issues"
+  },
+  "homepage": "https://github.com/mazen-r/strong-password#readme"
+}
