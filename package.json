@@ -14,7 +14,7 @@
     "password"
   ],
   "author": "Mazen Ramadan",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mazen-r/strong-password/issues"
   },
