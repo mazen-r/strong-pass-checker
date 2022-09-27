@@ -4,7 +4,7 @@
   "description": "npm module for checking if password is strong enough & tell user why it's not strong based on a schema.",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mazen-r/strong-password/issues"
   },
-  "homepage": "https://github.com/mazen-r/strong-password#readme"
+  "homepage": "https://github.com/mazen-r/strong-password#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
 }
