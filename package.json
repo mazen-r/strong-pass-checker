@@ -1,6 +1,6 @@
 {
   "name": "strong-pass-checker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "npm module for checking if password is strong enough & tell user why it's not strong based on a schema.",
   "main": "index.js",
   "scripts": {
@@ -11,9 +11,11 @@
     "url": "git+https://github.com/mazen-r/strong-password.git"
   },
   "keywords": [
-    "password checking", "strong password", "strong password checker"
+    "password checking",
+    "strong password",
+    "strong password checker"
   ],
-  "author":{
+  "author": {
     "name": "Mazen Ramadan",
     "email": "mazenramadan00@gmail.com"
   },
