@@ -1,9 +1,9 @@
-const strongPassword = require('./checers/strongPassword');
-const mediumPassword = require('./checkers/mediumPassowrd');
-const weakPassowrd = require('./checkers/weakPassword');
+const strongPassword = require('./lib/checkers/strongPassword');
+const mediumPassword = require('./lib/checkers/mediumPassword');
+const weakPassword = require('./lib/checkers/weakPassword');
 
 module.exports = {
     strongPassword: strongPassword,
     mediumPassword: mediumPassword,
-    weakPassowrd: weakPassowrd
+    weakPassowrd: weakPassword
 };

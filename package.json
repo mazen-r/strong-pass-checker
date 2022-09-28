@@ -1,6 +1,6 @@
 {
   "name": "strong-pass-checker",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "npm module for checking if password is strong enough & tell user why it's not strong based on a schema.",
   "main": "index.js",
   "scripts": {
