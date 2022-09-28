@@ -11,9 +11,12 @@
     "url": "git+https://github.com/mazen-r/strong-password.git"
   },
   "keywords": [
-    "password"
+    "password checking", "strong password", "strong password checker"
   ],
-  "author": "Mazen Ramadan",
+  "author":{
+    "name": "Mazen Ramadan",
+    "email": "mazenramadan00@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mazen-r/strong-password/issues"
