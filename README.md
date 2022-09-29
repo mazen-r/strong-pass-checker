@@ -2,10 +2,10 @@
 
 ![npm](https://img.shields.io/npm/v/strong-pass-checker?color=green&label=version) ![npm](https://img.shields.io/npm/dt/strong-pass-checker) ![GitHub top language](https://img.shields.io/github/languages/top/mazen-r/strong-pass-checker?color=green) ![GitHub](https://img.shields.io/github/license/mazen-r/strong-pass-checker)
 
-Strong Password is an NPM module for checking if password is strong enough. 
+strong-pass-checker is an NPM module for checking if password is strong enough. 
 It throws custom API error message or just a plain text message for telling user why password isn't strong enough. 
 It has 3 levels of secuirity based on diffrent schemas. 
-You can use strong-password in both frontend & backend.
+You can use strong-pass-checker in both frontend & backend.
   
 ------------------------------
 ## Installation
