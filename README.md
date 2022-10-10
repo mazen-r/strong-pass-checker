@@ -14,7 +14,7 @@ You can use strong-pass-checker in both frontend & backend.
 $ npm install strong-pass-checker
 ```  
 ## Usage  
-Strong-password has 3 levels of secuirity (Strong, Medium, Weak). 
+strong-pass-checker has 3 levels of secuirity (Strong, Medium, Weak). 
 You can return API error message for telling user why password isn't strong enough or get the text of the error and use it in frontend.  
 
 Here is how can you use the Strong level.
