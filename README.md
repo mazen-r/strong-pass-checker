@@ -23,7 +23,7 @@ const strongpass = require("strong-pass-checker");
 
 password = 'secret'
 strongpass.strongPassword(password, returnError=false) // Here I don't want to throw Error to user if password isn't strong.
-console.log(strongpass.strongPassowrd.message) // This will return "Password must be at least 8 chars long".
+console.log(strongpass.strongPassword.message) // This will return "Password must be at least 8 chars long".
 ```
 
 You can choose another security level by changing  
@@ -73,7 +73,7 @@ const strongpass = require("strong-pass-checker");
 
 password = 'secret'
 strongpass.strongPassword(password, returnError=false)
-passMessage = strongpass.strongPassowrd.message
+passMessage = strongpass.strongPassword.message
 
 if (passMessage === undefined) { // This means that the password meets the schema with no errors
   // Your custom workflow here
